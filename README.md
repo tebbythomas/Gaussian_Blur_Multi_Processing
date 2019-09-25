@@ -10,3 +10,14 @@ To run the code:
 <br />
 <b>python process_images.py
 <br />
+<br />
+Screenshot:
+<br />
+1. Original image:
+<br />
+<img src="https://github.com/tebbythomas/Gaussian_Blur_Multi_Processing/blob/master/Screenshots/Original.png" hspace="20">
+<br />
+<br />
+2. After applying Gaussian Blurring:
+<br />
+<img src="https://github.com/tebbythomas/Gaussian_Blur_Multi_Processing/blob/master/Screenshots/Gaussian_Blurring.png" hspace="20">
