@@ -21,3 +21,10 @@ Screenshot:
 2. After applying Gaussian Blurring:
 <br />
 <img src="https://github.com/tebbythomas/Gaussian_Blur_Multi_Processing/blob/master/Screenshots/Gaussian_Blurring.png" hspace="20">
+<br />
+<br />
+<b>Credits:</b>
+<br />
+Corey Schafer:
+<br />
+https://www.youtube.com/watch?v=fKl2JW_qrso
